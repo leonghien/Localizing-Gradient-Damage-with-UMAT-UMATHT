@@ -1,2 +1,2 @@
 # Localizing-Gradient-Damage-with-UMAT-UMATHT
- 
+Sample files for the article: Zhang et al, 2022. A simple implementation of localizing gradient damage model in Abaqus. International Journal of Damage Mechanics. http://dx.doi.org/10.1177/10567895221109622
